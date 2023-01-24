@@ -1,10 +1,21 @@
-import './App.css';
+import "./App.css";
+import Info from "./Info.js";
 
 function App() {
   return (
     <div className="App">
-      <p>Bare bones app.</p>
+      <Info />
+      <AddItem />
     </div>
+  );
+}
+
+function AddItem() {
+  return (
+    <form>
+      <label for="text-form">Type something: </label>
+      <input type="text" id="text-form" />
+    </form>
   );
 }
 
