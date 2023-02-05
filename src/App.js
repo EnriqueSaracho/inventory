@@ -16,7 +16,7 @@ function App() {
     item.id = items.length;
     items.push(item);
     setData({ items: items });
-    console.log(data);
+    console.log(data); // Not necessary
   };
 
   return (
