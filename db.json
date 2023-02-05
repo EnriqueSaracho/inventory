@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "name": "cocodrilo",
+      "price": "0.99",
+      "type": "sweet",
+      "brand": "test",
+      "id": 1
+    }
+  ]
+}
