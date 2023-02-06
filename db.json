@@ -1,25 +1,11 @@
 {
   "items": [
     {
-      "name": "cocodrilo",
-      "price": "0.99",
-      "type": "sweet",
-      "brand": "test",
-      "id": 1
-    },
-    {
       "name": "chocolate chunk",
       "price": "0.99",
       "type": "cookie",
       "brand": "test",
       "id": 2
-    },
-    {
-      "name": "leño",
-      "price": "1.99",
-      "type": "bread",
-      "brand": "test",
-      "id": 3
     }
   ]
 }
